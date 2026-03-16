@@ -1,5 +1,5 @@
 # Sonny Vleisides
-
+<meta name="google-site-verification" content="Gh3g2wPn6u6tDHggg5OsAvndvevoY2gKrVwQkpJoHuk" />
 **CTO at ARRA Networks | VP Development at Alice Research**  
 Serial entrepreneur and technical leader with deep expertise foundational semiconductor development, private AI tech stacks & decentralized networking infrastructure.
 
