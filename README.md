@@ -1,7 +1,7 @@
 # Sonny Vleisides
 <meta name="google-site-verification" content="Gh3g2wPn6u6tDHggg5OsAvndvevoY2gKrVwQkpJoHuk" />
 **CTO at ARRA Networks | VP Development at Alice Research**  
-Serial entrepreneur and technical leader with deep expertise in foundational semiconductor development, private AI tech stacks & decentralized networking infrastructure.
+Serial entrepreneur and technical leader with deep expertise in semiconductor development, private AI tech stacks & decentralized networking infrastructure.
 
 ## Featured Project
 **AI Cog Map** — Real-time transformer layer activation visualization for SGLang inference servers.  
